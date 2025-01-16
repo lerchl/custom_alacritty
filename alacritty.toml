@@ -1,0 +1,9 @@
+[font]
+size = 16
+
+[font.normal]
+family = "GeistMono Nerd Font Mono"
+style = "Regular"
+
+[colors.primary]
+background = "#000000"
